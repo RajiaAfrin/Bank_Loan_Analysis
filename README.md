@@ -5,7 +5,7 @@ Bank Loan Analysis project built using **SQL and Excel** to analyze lending perf
 This project analyses bank loan data to evaluate lending performance, borrower behaviour, and portfolio risk. The goal is to uncover meaningful insights using an interactive Excel dashboard that helps track loan trends, repayment patterns, and risk distribution for better decision-making.
 
 ## Dataset Used
-
+-<a href="https://github.com/RajiaAfrin/Bank_Loan_Analysis/blob/main/Bank_Loan_Data.csv">Dataset</a>
 
 ## Key Performance Indicators (KPIs) / Business Questions
 The dashboard is designed to answer the following key business questions:
