@@ -20,6 +20,8 @@ The dashboard is designed to answer the following key business questions:
 •	Which states contribute the most to loan applications? 
 •	How does home ownership impact loan distribution? 
 
+## Dashboard Interaction
+
 ## Process
 The analysis was performed using the following steps:
 •	Cleaned and prepared the dataset by handling missing values and formatting data 
@@ -30,7 +32,8 @@ The analysis was performed using the following steps:
 •	Extracted insights to support financial decision-making 
 
 ## Dashboard
-(Add dashboard screenshot here)
+<img width="1199" height="627" alt="Screenshot 2026-04-30 184109" src="https://github.com/user-attachments/assets/e938c5f3-5936-4117-a0b5-28abb004e3df" />
+
 
 ## Key Insights
 •	Majority of loans are good loans (~86%), indicating a strong portfolio 
