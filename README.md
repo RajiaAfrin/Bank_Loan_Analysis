@@ -20,7 +20,8 @@ The dashboard is designed to answer the following key business questions:
 •	Which states contribute the most to loan applications? 
 •	How does home ownership impact loan distribution? 
 
-## Dashboard Interaction
+## Dashboard Interaction 
+-<a href="https://github.com/RajiaAfrin/Bank_Loan_Analysis/blob/main/Bank%20loan.xlsx">Dashboard</a>
 
 ## Process
 The analysis was performed using the following steps:
