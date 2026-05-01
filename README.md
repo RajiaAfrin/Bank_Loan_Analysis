@@ -33,6 +33,8 @@ The analysis was performed using the following steps:
 •	Extracted insights to support financial decision-making 
 
 ## Dashboard
+<img width="1189" height="631" alt="Screenshot 2026-04-30 184036" src="https://github.com/user-attachments/assets/61dc20fe-4b11-497c-89a7-ca8575cd813b" />
+
 <img width="1199" height="627" alt="Screenshot 2026-04-30 184109" src="https://github.com/user-attachments/assets/e938c5f3-5936-4117-a0b5-28abb004e3df" />
 
 
