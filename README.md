@@ -46,5 +46,5 @@ The analysis was performed using the following steps:
 •	Borrowers with longer employment history contribute more applications 
 •	Loan distribution shows strong regional concentration 
 
-##Conclusion
+## Conclusion
 The Bank Loan Analysis Dashboard provides clear insights into lending performance, borrower trends, and risk distribution. It helps in understanding key financial patterns and supports better decision-making in the banking and finance domain.
