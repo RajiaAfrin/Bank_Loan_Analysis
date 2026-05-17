@@ -1,9 +1,6 @@
 # Bank_Loan_Analysis
 Bank Loan Analysis project built using **SQL and Excel** to analyze lending performance and borrower behavior. SQL handled data cleaning and transformation, while Excel was used to create interactive dashboards and KPIs. The project highlights insights on loan applications, funding, repayments, and risk segmentation.
 
-## Project Overview
-This project analyses bank loan data to evaluate lending performance, borrower behaviour, and portfolio risk. The goal is to uncover meaningful insights using an interactive Excel dashboard that helps track loan trends, repayment patterns, and risk distribution for better decision-making.
-
 ## Dataset Used
 -<a href="https://github.com/RajiaAfrin/Bank_Loan_Analysis/blob/main/Bank_Loan_Data.csv">Dataset</a>
 
